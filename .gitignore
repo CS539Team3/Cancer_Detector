@@ -8,3 +8,5 @@ Result/*
 Scalers/*
 TestDataset/*
 inference_results.csv
+FeatureWeights/*
+CombinedFeatureWeights.csv
