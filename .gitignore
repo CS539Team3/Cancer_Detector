@@ -1,3 +1,10 @@
 Dataset/*
 !Dataset/.gitkeep
 .venv/*
+ControlDataset/*
+Models/*
+NotInUseModels/*
+Result/*
+Scalers/*
+TestDataset/*
+inference_results.csv
