@@ -10,3 +10,8 @@ TestDataset/*
 inference_results.csv
 FeatureWeights/*
 CombinedFeatureWeights.csv
+Bladder/Dataset/*
+Breast/Dataset/*
+Brain/Dataset/*
+Liver/Dataset/*
+Test_data/*
